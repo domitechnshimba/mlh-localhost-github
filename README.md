@@ -36,7 +36,7 @@ Node library for geocoding and reverse geocoding.
 
 Embedded JavaScript templates
 
-## Try the application locally, if you want!
+## Try the application locally, if you want
 
 ### Google Maps API Key
 
@@ -58,7 +58,7 @@ To add a new location, simply append a new line to the locations.txt file
 
 There is also a `locations.txt.example` file that can be used to test the app. Copy its content to locations.txt and restart the app.
 
-## Running the application:
+## Running the application
 
 To run this application locally, you'll need to:
 
